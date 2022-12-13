@@ -1,0 +1,13 @@
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\bin\Debug\ProjectPerpustakaanDatabase.exe
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\bin\Debug\ProjectPerpustakaanDatabase.pdb
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\bin\Debug\ProjectPerpustakaanDatabase.xml
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.Resources.resources
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.vbproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.exe
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.xml
+C:\Users\lenovo\OneDrive\Documents\Visual Studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.pdb
+C:\Users\lenovo\onedrive\documents\visual studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.DatabaseBuku.resources
+C:\Users\lenovo\onedrive\documents\visual studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.DatabaseAnggota.resources
+C:\Users\lenovo\onedrive\documents\visual studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.DatabasePeminjaman.resources
+C:\Users\lenovo\onedrive\documents\visual studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.MainPerpustakaan.resources
+C:\Users\lenovo\onedrive\documents\visual studio 2010\Projects\ProjectPerpustakaanDatabase\ProjectPerpustakaanDatabase\obj\x86\Debug\ProjectPerpustakaanDatabase.ViewAllDatabase.resources
